@@ -22,3 +22,8 @@ Trabalho prático da disciplina Introdução à Ciência dos Dados (CCF425)
 8 - Qual região do brasil, houve maior crescimento do uso da internet e a posse do celular, quanto aumentou ?
 9 - O quanto variou os dados desde 2005 a 2015 ?
 10 - Qual foi a maior dificuldade no tratamento dos dados ? 
+11 - Existe uma relação direta entre a região e pessoas acessando a internet ao longo dos anos?
+12 - Qual foram os anos com a maior variação de acesso de internet?
+13 - Existe relação entre a renda e o uso da internet?
+14 - A porcentagem da idade de pessoas de 10 a 14 anos que possuem celular sofreu mudanças ao longo dos anos?
+15 - A total de pessoas de 60 anos ou mais que usam a internet sofreu mudanças ao longo dos anos?
