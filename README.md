@@ -2,7 +2,7 @@
 Trabalho prático da disciplina Introdução à Ciência dos Dados (CCF425)
 
 ### Integrantes:
-  - Arthur Marciano 
+  - Arthur Marciano - 3019
   - Eduardo Esquivel
   - Samuel Rodrigues
   - Saulo Silva - 3475
@@ -27,3 +27,8 @@ Trabalho prático da disciplina Introdução à Ciência dos Dados (CCF425)
 13 - Existe relação entre a renda e o uso da internet?
 14 - A porcentagem da idade de pessoas de 10 a 14 anos que possuem celular sofreu mudanças ao longo dos anos?
 15 - A total de pessoas de 60 anos ou mais que usam a internet sofreu mudanças ao longo dos anos?
+16 - Qual faixa de idade sofreu maior variação na posse de celulares ao longo desses 10 anos?
+17 - Existe uma relação direta entre o grau de estudo do indivíduo e a posse de celulares?
+18 - Para qual finalidade o uso da internet sofreu maior aumento ao longo dos anos? De quanto foi esse aumento?
+19 - Qual equipamento para acessar internet teve maior variação no uso?
+20 - Qual faixa de idade mais utilizou a internet?
