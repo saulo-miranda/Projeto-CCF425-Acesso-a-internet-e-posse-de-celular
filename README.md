@@ -31,4 +31,4 @@ Trabalho prático da disciplina Introdução à Ciência dos Dados (CCF425)
 17 - Existe uma relação direta entre o grau de estudo do indivíduo e a posse de celulares?
 18 - Para qual finalidade o uso da internet sofreu maior aumento ao longo dos anos? De quanto foi esse aumento?
 19 - Qual equipamento para acessar internet teve maior variação no uso?
-20 - Qual faixa de idade mais utilizou a internet?
+20 - Qual sexo (masculino ou feminino) mais utilizou internet? Quantos % a mais que o outro?
