@@ -15,7 +15,7 @@ Trabalho prático da disciplina Introdução à Ciência dos Dados (CCF425)
 1 - Qual a região que possui mais pessoas acessando a internet?
 2 - Qual a idade que mais acessa a internet?
 3 - Quais as ocupações(categoria de emprego) que mais acessaram a internet em cada região?
-4 - Com o passar dos anos, a porcentagem de donos de celular em cada região mudou? Se sim, quanto?
+4 - Com o passar dos anos, a porcentagem de usuarios de internet em cada região mudou? Se sim, quanto?
 5 - Qual a renda média das pessoas que acessam a internet de casa?
 6 - O que mudou nesses 10 anos diante do acesso a internet e a  posse do celular ?
 7 - Diante do tratamento dos dados, há muitos ruidos detectados?
