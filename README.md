@@ -4,7 +4,7 @@ Trabalho prático da disciplina Introdução à Ciência dos Dados (CCF425)
 ### Integrantes:
   - Arthur Marciano - 3019
   - Eduardo Esquivel
-  - Samuel Rodrigues
+  - Samuel Rodrigues - 3476
   - Saulo Silva - 3475
 
 ### Assunto:
